@@ -8,13 +8,13 @@ Maven
 <dependency>
   <groupId>com.devsh</groupId>
   <artifactId>openweathermap-library</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <type>pom</type>
 </dependency>
 ```
 Gradle
 ```java
-compile 'com.devsh:openweathermap-library:0.1.0'
+compile 'com.devsh:openweathermap-library:0.1.1'
 ```
 ## Code
 ```java
